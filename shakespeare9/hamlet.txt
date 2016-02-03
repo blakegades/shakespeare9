@@ -2,6 +2,8 @@ HAMLET
 
 ghost: I'm a ghost
 
+hamlet: to be or not to be yeah yeah?
+
 Polonius: I'm a curtain
 
 Hamlet: I'm dead
